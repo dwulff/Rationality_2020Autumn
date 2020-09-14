@@ -17,9 +17,9 @@ Im Laufe des Seminars finden drei Debatten in einer Team-Version des "Lincoln-Do
 Das "Lincoln-Douglas Debate"-Format sieht die rhetorische Auseinandersetzung zweier Teams in sieben Schritten hinsichtlich einer spezifischen Aussage vor, wobei ein Team die Affirmative und ein Team die Negative Position vertritt, d.h., Pro und Contra respektive argumentiert. Die dritte beurteilt und kommentiert den Ausgang der Debatte.
 
 <table cellspacing="0" cellpadding="0">
-<col width=30%></col>
-<col width=20%></col>
-<col width=50%></col>
+<col width="30%">
+<col width="20%">
+<col width="50%">
 <tr>
   <td style="text-align:center"><b>Schritt</b></td>
   <td style="text-align:center"><b>Zeit</b></td>
