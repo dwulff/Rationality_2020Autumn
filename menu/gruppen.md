@@ -3,6 +3,13 @@ layout: page
 title: Gruppen
 ---
 
+<style>
+  td {
+  vertical-align: top;
+  align: left;  
+  }
+</style>
+
 In der zweiten Sitzung werdet Ihr für den Rest des Seminars in drei Gruppen aufgeteilt. Gruppenzugehörigkeit bestimmt, welche Frage insbesondere vorzubereiten und im Seminar aufzubereiten sind, sowie die unterschiedlichen Rollen in den drei Debatten.  
 
 
