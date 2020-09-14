@@ -12,8 +12,8 @@ title: Perusall
 
 ## Lektüre & Fragen
 
-Ihr findet die Lektüre für die jeweilige Seminarsitzung in Perusall unter Leseaufträge. Lest und bearbeitet als Vorbereitung die gesamte Literatur. Bearbeiten bedeutet, Markierungen, Kommentare, Fragen hinzuzufügen und die der anderen zu ergänzen oder zu beantworten.  
+Ihr findet die Lektüre für die jeweilige Seminarsitzung in Perusall unter Leseaufträge. Lest und bearbeitet als Vorbereitung die gesamte Literatur. Bearbeiten bedeutet Markierungen, Kommentare, Fragen hinzuzufügen und die der anderen zu ergänzen oder zu beantworten.  
 
-Sobald mit der zweiten Sitzung als Gruppen einzelnen Fragen zugeordnet seit, dürft Ihr Euch besonders auf die für Euch relevanten stellen fokussieren.
+Sobald mit der zweiten Sitzung als Gruppen einzelnen Fragen zugeordnet seit, könnt Ihr Eure Vorbereitung besonders auf die für Euch relevanten stellen fokussieren.
 
-Bearbeiten bedeutet auch sich über über die Literatur hinausgehend sich zu information, z.B. durch Recherche im WWW. Einige Fragen werden insbesondere erfordern.   
+Bearbeiten bedeutet auch sich über über die Literatur hinausgehend sich zu information, z.B. durch Recherche im WWW. Einige Fragen werden dies insbesondere erfordern.   
