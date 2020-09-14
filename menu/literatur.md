@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Perusall
+title: Literaturarbeit
 ---
+
+In den meisten Sitzungen setzen wir uns aktiv mit ein bis zwei Aufsätzen auseinander. Die Literatur sind im Vorfeld von allen Seminarteilnehmern über Perusall (siehe unten) zu bearbeiten. Die Sitzungen bestehen dann aus drei Abschnitten: Aufbereitung, Präsentation, und Diskussion.
+
+## Vorbereitung
 
 <a href="https://perusall.com/">Perusall</a> ist ein sozialer E-Reader, der das interaktive Lesen und Bearbeiten der Seminarlektüre ermöglicht und tracked.
 
@@ -17,3 +21,5 @@ Ihr findet die Lektüre für die jeweilige Seminarsitzung in Perusall unter Lese
 Sobald mit der zweiten Sitzung als Gruppen einzelnen Fragen zugeordnet seit, könnt Ihr Eure Vorbereitung besonders auf die für Euch relevanten stellen fokussieren.
 
 Bearbeiten bedeutet auch sich über über die Literatur hinausgehend sich zu information, z.B. durch Recherche im WWW. Einige Fragen werden dies insbesondere erfordern.   
+
+## Sitzungen
