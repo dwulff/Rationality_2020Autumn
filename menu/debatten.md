@@ -47,7 +47,7 @@ Weitere Instruktionen hier
 <tr>
   <td>Negative Constructive</td>
   <td>7 min</td>
-  <td>Die Negative stellt ihren vorbereiteten "Case2 vor und geht auf Punkte der Affirmative ein.</td>
+  <td>Die Negative stellt ihren vorbereiteten "Case" vor und geht auf Punkte der Affirmative ein.</td>
 </tr>
 <tr>
   <td>1. Affirmative rebuttal</td>
