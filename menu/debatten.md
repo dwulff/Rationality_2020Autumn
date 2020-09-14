@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus
+title: Debatten
 ---
 
 <style>
@@ -21,38 +21,38 @@ Das "Lincoln-Douglas Debate"-Format sieht die rhetorische Auseinandersetzung zwe
 <col width="20%">
 <col width="50%">
 <tr>
-  <td style="text-align:center"><b>Schritt</b></td>
-  <td style="text-align:center"><b>Zeit</b></td>
-  <td style="text-align:center"><b>Inhalt</b></td>
+  <td><b>Schritt</b></td>
+  <td><b>Zeit</b></td>
+  <td><b>Inhalt</b></td>
 </tr>
 <tr>
-  <td style="text-align:center">Affirmative constructive</td>
-  <td style="text-align:center">6 min</td>
+  <td>Affirmative constructive</td>
+  <td>6 min</td>
   <td>Die Affirmative eröffnet mit ihrem vorbereiteten "Case".</td>
 </tr>
 <tr>
-  <td style="text-align:center">Cross Examination</td>
-  <td style="text-align:center">3</td>
+  <td>Cross Examination</td>
+  <td>3</td>
   <td>Die Negative stellt kritische Fragen an die Affirmative.</td>
 </tr>
 <tr>
-  <td style="text-align:center">Negative Constructive</td>
-  <td style="text-align:center">7</td>
+  <td>Negative Constructive</td>
+  <td>7</td>
   <td>Die Negative stellt ihren vorbereiteten "Case2 vor und geht auf Punkte der Affirmative ein.</td>
 </tr>
 <tr>
-  <td style="text-align:center">1. Affirmative rebuttal</td>
-  <td style="text-align:center">4</td>
+  <td>1. Affirmative rebuttal</td>
+  <td>4</td>
   <td>Die Affirmative geht auf den "Case" der Negativen ein und bestätigt eigene Positionen.</td>
 </tr>
 <tr>
-  <td style="text-align:center">Negative rebuttal</td>
-  <td style="text-align:center">6</td>
+  <td>Negative rebuttal</td>
+  <td>6</td>
   <td>Die Negative geht auf das Rebuttal ein und fasst ihre Argumente zusammen.</td>
 </tr>
 <tr>
-  <td style="text-align:center">2. Affirmative rebuttal</td>
-  <td style="text-align:center">4</td>
+  <td>2. Affirmative rebuttal</td>
+  <td>4</td>
   <td>Die Affirmative geht auf das Rebuttal ein und fasst ihre Argumente zusammen.</td>
 </tr>
 
