@@ -14,7 +14,7 @@ Lerne die theoretischen Hintergründe guter Entscheidungen kennen und reflektier
 
 ## Grading
 Der Kurs wird mit PASS/FAIL bewertet. Studierende erhalten ein PASS durch Erfüllung der folgenden Anforderungen:
-1. Bearbeiten der Vorbereitungsliteratur in  <a href="menu/perusall">Perusall</a>
+1. Bearbeiten der Vorbereitungsliteratur in <a href="menu/perusall">Perusall</a>
 2. Engagierte Mitarbeit in Diskussion und Präsentationen im Seminar
 3. Aktive und passive Teilnahme an drei <a href="menu/debatten">Debatten</a>
 

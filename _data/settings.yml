@@ -8,8 +8,9 @@ google-ID: 'UA-112060364-1'
 menu:
 - {name: 'Syllabus',   path: 'menu', url: 'syllabus.html'}
 - {name: 'Agenda & Materialien',   path: 'menu', url: 'materials.html'}
+- {name: 'Gruppen',   path: 'menu', url: 'gruppen.html'}
 - {name: 'Perusall',   path: 'menu', url: 'perusall.html'}
-- {name: 'Debatte',   path: 'menu', url: 'debatten.html'}
+- {name: 'Debatten',   path: 'menu', url: 'debatten.html'}
 - {name: 'Zoom',   path: 'menu', url: 'zoom.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
