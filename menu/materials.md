@@ -14,66 +14,85 @@ e {
 
 <e>Intro</e>
 
-- Presentation: <a href="https://dwulff.github.io/NLP_2020Autumn/assets/key/Intro.pdf">Intro.pdf</a>
+- Presentation: <a href="https://dwulff.github.io/Rationality_2020Autumn/assets/key/Intro.pdf">Intro.pdf</a>
 
 ## 22.09.
 
-<e>Tokenization & Markdown</e>
+<e>Die Anfänge</e>
 
-- Preparation: Complete <a href="menu/installation"><b>installation</b></a> instructions incl. swirl
-- Presentation:
-- Assignment:
+- Vorbereitung: Perusall
+- Fragen
+  1. Wer waren Blaise Pascal und Daniel Bernoulli? Erläutere anhand zusätzlicher Rechereche welche Rollen Sie für die Geschichte der Wissenschaft und der Entscheidungstheorie spielen.
+  2. Was ist das St. Petersburg paradox und wie löst es Bernoulli? Erläutere u.a. anhand der Abbildung in §6 und den Formeln in §17ff.
+  3. Wie sind nach Pascal und Bernoulli gute Entscheidungen zu treffen? Worin sind sie sich einig, worin unterscheiden Sie sich. Erläutere mittels Textstellen.  
 
 ## 29.09.
 
-<e>Zipf's law</e>
+<e>Heuristics & Biases</e>
 
-- Preparation: Read <a href="https://dwulff.github.io/NLP_2020Autumn/assets/pdf/Piantadosi2014.pdf">Piantadosi (2014)</a>
-- Presentation:
-- Assignment:
+- Vorbereitung: Perusall
+- Fragen <i>tba</i>
+
+<!---
+  1. Wer waren Kahneman & Tversky? Erläutere anhand zusätzlicher Rechereche welche Rollen Sie für die Psychologie, Ökonomie, und Entscheidungstheorie spielen.
+  2.
+  3.   
+--->
 
 ## 06.10.
 
-<e>Tidytext</e>
+<e>Fast and frugal heuristics</e>
 
-- Preparation:
-- Presentation:
-- Assignment:
+- Vorbereitung: Perusall
+- Fragen <i>tba</i>
 
-<!---Doodle--->
+<!---
+  1. Warum ist less more, bzw. was ist das Bias-Variance-dilemma?
+  2. Was sind Heuristiken, welche gibt es und wann funktionieren sie gut?
+  3. Was sind gute Entscheidungen nach Gigerenzer & Brighton?
+--->
 
 ## 13.10.
 
-<e>Semantics</e>
+<e>Debiasing versus bias bias</e>
 
-- Preparation: Read <a href="https://dwulff.github.io/NLP_2020Autumn/assets/pdf/Bullinaria&Levy2007.pdf">Bullinaria & Levy (2007)</a>
-- Presentation:
-- Assignment:
+- Vorbereitung: Perusall
+- Fragen <i>tba</i>
 
 ## 20.10.
 
-<e>Sentiment</e>
+<e>Debate I: Heuristiken</e>
 
-- Preparation: Read <a href="https://dwulff.github.io/NLP_2020Autumn/assets/pdf/Reagan2016.pdf">Reagan (2016)</a>
-- Presentation:
-- Assignment:
+
 
 ## 27.10.
 
-<e>Project proposals</e>
+<e>AI I</e>
 
-## 27.10. - 24.11.
+## 03.11.
 
-<e>Project work & meetings</e>
+<e>AI II</e>
+
+## 10.11.
+
+<e>AI III</e>
+
+## 17.11.
+
+<e>Debate AI</e>
 
 ## 24.11.
 
-<e>Markdown presentations</e>
+<e>Wirtschaft I</e>
 
-## 24.11. - 15.12.
+## 01.12
 
-<e>Project work & meetings</e>
+<e>Wirtschaft II</e>
+
+## 08.12.
+
+<e>Wirtschaft III</e>
 
 ## 15.12.
 
-<e>Final presentations</e>
+<e>Debate Usefulness</e>

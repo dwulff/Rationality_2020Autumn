@@ -7,21 +7,19 @@ title: Syllabus
 Dirk Wulff (<a href="mailto:dirk.wulff@unibas.ch">contact</a>)
 
 ## Background
-With the rise of the internet and social media, unprecedented amounts of digitized natural language are becoming available. This aim of this seminar is to enable you to thoughtfully and actively use natural language data to help answer meaningful psychological questions. This course will consist of 1) introductory sessions on data science techniques using R to natural language processing, 2) the application of natural language processing in exercises, 3) a natural language processing group project over the course of the semester, 4) two presentations of the group project' results.
+Philosophie, Ökonomie, und Psychologie bearbeiten seit Jahrhunderten die Frage was gute Entscheidungen sind. Mit welchem Ergebnis? Im ersten Teil dieses Seminars werden die theoretischen Grundlagen normativ richtiger Entscheidungen erarbeitet. Dabei wird aufgezeigt weshalb die Frage nach guten Entscheidungen noch immer ungelöst ist. Anschließend wird im zweiten Teil des Seminars beleuchtet, warum die Frage noch guten Entscheidungen im Rahmen von künstlicher Intelligenz hoch-relevant ist und wie Entscheider in der Praxis z.B. in Wirtschaft und Medizin vielleicht trotzdem gute Entscheidungen treffen können.
 
 ## Goals
-Learn the fundamentals of natural language processing and data analysis. Develop confidence and skills in extracting, wrangling, analyzing, and communicating natural language data to answer psychological questions in an evidence-based manner.
+Lerne die theoretischen Hintergründe guter Entscheidungen kennen und reflektiere deren Konsequenzen für Entscheidungen im wahren Leben.
 
 ## Grading
-The course is graded as PASS/FAIL. Students can receive a PASS if they fulfill the following requirements:
-1. Engagement in class exercises and discussions
-2. Complete homework assignments
-3. Present a blitz talk describing the group project
-4. Contribute to and complete group project
-5. Present group project (twice)
+Der Kurs wird mit PASS/FAIL bewertet. Studierende erhalten ein PASS durch Erfüllung der folgenden Anforderungen:
+1. Bearbeiten der Vorbereitungsliteratur in  <a href="menu/perusall">Perusall</a>
+2. Engagierte Mitarbeit in Diskussion und Präsentationen im Seminar
+3. Aktive und passive Teilnahme an drei <a href="menu/debatten">Debatten</a>
 
 ## Agenda
-See <a href="">Schedule & Materials</a>
+See <a href="">Agenda & Materialien</a>
 
-## Venue
+## Ort
 <a href="menu/zoom">Zoom</a>
