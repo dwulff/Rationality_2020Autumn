@@ -14,24 +14,19 @@ e {
 
 <e>Intro</e>
 
-- Presentation: <a href="https://dwulff.github.io/Rationality_2020Autumn/assets/key/Intro.pdf">Intro.pdf</a>
+<a href="https://dwulff.github.io/Rationality_2020Autumn/assets/key/Intro.pdf">Intro.pdf</a>
 
 ## 22.09.
 
 <e>Die Anfänge</e>
 
-- Vorbereitung: Perusall
-- Fragen
-  1. Wer waren Blaise Pascal und Daniel Bernoulli? Erläutere anhand zusätzlicher Rechereche welche Rollen Sie für die Geschichte der Wissenschaft und der Entscheidungstheorie spielen.
-  2. Was ist das St. Petersburg paradox und wie löst es Bernoulli? Erläutere u.a. anhand der Abbildung in §6 und den Formeln in §17ff.
-  3. Wie sind nach Pascal und Bernoulli gute Entscheidungen zu treffen? Worin sind sie sich einig, worin unterscheiden Sie sich. Erläutere mittels Textstellen.  
+1. Wer waren Blaise Pascal und Daniel Bernoulli? Erläutere anhand zusätzlicher Rechereche welche Rollen Sie für die Geschichte der Wissenschaft und der Entscheidungstheorie spielen.
+2. Was ist das St. Petersburg paradox und wie löst es Bernoulli? Erläutere u.a. anhand der Abbildung in §6 und den Formeln in §17ff.
+3. Wie sind nach Pascal und Bernoulli gute Entscheidungen zu treffen? Worin sind sie sich einig, worin unterscheiden Sie sich. Erläutere mittels Textstellen.  
 
 ## 29.09.
 
 <e>Heuristics & Biases</e>
-
-- Vorbereitung: Perusall
-- Fragen <i>tba</i>
 
 <!---
   1. Wer waren Kahneman & Tversky? Erläutere anhand zusätzlicher Rechereche welche Rollen Sie für die Psychologie, Ökonomie, und Entscheidungstheorie spielen.
@@ -43,9 +38,6 @@ e {
 
 <e>Fast and frugal heuristics</e>
 
-- Vorbereitung: Perusall
-- Fragen <i>tba</i>
-
 <!---
   1. Warum ist less more, bzw. was ist das Bias-Variance-dilemma?
   2. Was sind Heuristiken, welche gibt es und wann funktionieren sie gut?
@@ -56,14 +48,13 @@ e {
 
 <e>Debiasing versus bias bias</e>
 
-- Vorbereitung: Perusall
-- Fragen <i>tba</i>
-
 ## 20.10.
 
 <e>Debate I: Heuristiken</e>
 
-
+Affirmative: Gruppe 1
+Negative: Gruppe 2
+Judges: Gruppe 3
 
 ## 27.10.
 
