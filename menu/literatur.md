@@ -22,7 +22,7 @@ Bearbeiten bedeutet auch sich über über die Literatur hinausgehend sich zu inf
 
 <a href="https://perusall.com/">Perusall</a> ist ein sozialer E-Reader, der das interaktive Lesen und Bearbeiten der Seminarlektüre ermöglicht und tracked.
 
-#### Anmelden bei Perusall
+### Anmelden bei Perusall
 1. Möglich bis <b>Freitag, 18. September</b>, 23.59Uhr.
 2. Erstellt einen freien account auf https://perusall.com/
 3. Verwendet den Code <b>WULFF-UJNGG</b> um dem Seminar beizutreten.

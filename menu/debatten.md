@@ -20,9 +20,8 @@ An der Debatte beteiligte Gruppen treffen sich im Vorfeld mindestens einmal um d
 
 Die jeweils nicht an der Debatte beteiligte Gruppe beurteilt und kommentiert den Ausgang der Debatte.
 
-Hier
 
-#### 7 Schritte des "Lincoln-Douglas Debate"-Formats
+### 7 Schritte des "Lincoln-Douglas Debate"-Formats
 
 Weitere Instruktionen hier
 
