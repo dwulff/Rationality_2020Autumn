@@ -42,13 +42,17 @@ Jede Sitzung zur Literaturarbeit durchläuft die folgenden drei Schritte.
   <td><b>Beschreibung</b></td></tr>
 <tr>
   <td>Aufbereitung/td>
-  <td>30 min/td>
+  <td>30 min</td>
   <td>Teilnehmer bereiten in den Gruppen eine Antwort auf ihre Frage in Form einer kurzen Präsentation vor.</td>
+</tr>
 <tr>
-  <td>Präsentation/td>
-  <td>30 min/td>
+  <td>Präsentation</td>
+  <td>30 min</td>
   <td>Die Gruppen präsentieren sich gegenseitig ihre Antworten in 5-7 minütugen Präsentationen.</td>
+</tr>
 <tr>
-  <td>Diskussion/td>
-  <td>30 min/td>
+  <td>Diskussion</td>
+  <td>30 min</td>
   <td>Offene und weitereführende Fragen werden im Plenum diskutiert.</td>
+</tr>
+</table>
