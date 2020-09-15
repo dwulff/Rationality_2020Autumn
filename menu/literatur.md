@@ -41,7 +41,7 @@ Jede Sitzung zur Literaturarbeit durchläuft die folgenden drei Schritte.
   <td><b>Zeit</b></td>
   <td><b>Beschreibung</b></td></tr>
 <tr>
-  <td>Aufbereitung/td>
+  <td>Aufbereitung</td>
   <td>30 min</td>
   <td>Teilnehmer bereiten in den Gruppen eine Antwort auf ihre Frage in Form einer kurzen Präsentation vor.</td>
 </tr>
