@@ -21,15 +21,15 @@ In der zweiten Sitzung werdet Ihr für den Rest des Seminars in drei Gruppen auf
   <td><b>Teilnehmer</b></td>
 </tr>
 <tr>
-  <td>1/td>
+  <td>1</td>
   <td>tba</td>
 </tr>
 <tr>
-  <td>2/td>
+  <td>2</td>
   <td>tba</td>
 </tr>
 <tr>
-  <td>3/td>
+  <td>3</td>
   <td>tba</td>
 </tr>
 </table>
