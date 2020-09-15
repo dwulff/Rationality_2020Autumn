@@ -67,4 +67,4 @@ Weitere Instruktionen hier
 
 </table>
 
-Finde weitere Instruktionen <a href="assets/pdf/ld_format.pdf"><b>hier</b></a>.
+Finde weitere Instruktionen <a href="https://dwulff.github.io/Rationality_2020Autumn/assets/pdf/ld_format.pdf"><b>hier</b></a>.
