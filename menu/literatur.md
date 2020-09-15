@@ -33,27 +33,23 @@ Bearbeiten bedeutet auch sich über über die Literatur hinausgehend sich zu inf
 Jede Sitzung zur Literaturarbeit durchläuft die folgenden drei Schritte.
 
 <table cellspacing="0" cellpadding="0">
-<col width="30%"></col>
-<col width="20%"></col>
-<col width="50%"></col>
+<col width="30%">
+<col width="20%">
+<col width="50%">
 <tr>
   <td><b>Schritt</b></td>
   <td><b>Zeit</b></td>
-  <td><b>Beschreibung</b></td>
-</tr>
+  <td><b>Beschreibung</b></td></tr>
 <tr>
   <td>Aufbereitung/td>
   <td>30 min/td>
-  <td>Teilnehmer bereiten in den Gruppen eine Antwort auf ihre Frage in Form einer kurzen Präsentation vor.</td>
-</tr>
+  <td>Teilnehmer bereiten in den Gruppen eine Antwort auf ihre Frage in Form einer kurzen Präsentation vor.</td></tr>
 <tr>
   <td>Präsentation/td>
   <td>30 min/td>
-  <td>Die Gruppen präsentieren sich gegenseitig ihre Antworten in 5-7 minütugen Präsentationen.</td>
-</tr>
+  <td>Die Gruppen präsentieren sich gegenseitig ihre Antworten in 5-7 minütugen Präsentationen.</td></tr>
 <tr>
   <td>Diskussion/td>
   <td>30 min/td>
-  <td>Offene und weitereführende Fragen werden im Plenum diskutiert.</td>
-</tr>
+  <td>Offene und weitereführende Fragen werden im Plenum diskutiert.</td></tr>
 </table>
