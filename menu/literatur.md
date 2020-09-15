@@ -33,9 +33,9 @@ Bearbeiten bedeutet auch sich über über die Literatur hinausgehend sich zu inf
 Jede Sitzung zur Literaturarbeit durchläuft die folgenden drei Schritte.
 
 <table cellspacing="0" cellpadding="0">
-<col width="30%">
-<col width="20%">
-<col width="50%">
+<col width="30%"></col>
+<col width="20%"></col>
+<col width="50%"></col>
 <tr>
   <td><b>Schritt</b></td>
   <td><b>Zeit</b></td>
