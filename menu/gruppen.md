@@ -14,8 +14,8 @@ In der zweiten Sitzung werdet Ihr für den Rest des Seminars in drei Gruppen auf
 
 
 <table cellspacing="0" cellpadding="0">
-<col width="20%">
-<col width="80%">
+<col width="20%"></col>
+<col width="80%"></col>
 <tr>
   <td><b>Gruppe</b></td>
   <td><b>Teilnehmer</b></td>
