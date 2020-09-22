@@ -28,32 +28,35 @@ e {
 
 <e>Heuristics & Biases</e>
 
-<!---
-  1. Wer waren Kahneman & Tversky? Erläutere anhand zusätzlicher Rechereche welche Rollen Sie für die Psychologie, Ökonomie, und Entscheidungstheorie spielen.
-  2.
-  3.   
---->
+1. Welches sind die 3 überzeugensten Verletzungen von Rationalität? Trefft eine Auswahl und begründet diese.
+2. Was ist der axiomatische Ansatz den Kahneman und Tversky eingangs erwähnen? Welche Annahmen (Axiome) werden gemacht? Externe Recherche nötig.  
+3. Was sind nach Kahneman und Tversky gute Entscheidungen und wie sehen sie Heuristiken? Belege mit Textstellen.  
 
 ## 06.10.
 
 <e>Fast and frugal heuristics</e>
 
-<!---
-  1. Warum ist less more, bzw. was ist das Bias-Variance-dilemma?
-  2. Was sind Heuristiken, welche gibt es und wann funktionieren sie gut?
-  3. Was sind gute Entscheidungen nach Gigerenzer & Brighton?
---->
+
+1. Wie definieren Gigerenzer und Brighton Heuristiken, unter welchen Bedingungen funktionieren sie gut? Beantworte unter Verwendung von ein bis zwei Beispielen.
+2. Was sind nach Gigerenzer & Brighton gute Entscheidungen? Belege mit Textstellen.  
+3. Was ist das Bias-Variance-dilemma? Welche Bedeutung hat es für Heuristiken und für Statistik im Allgemeinen. Externe Recherche erwartet.
 
 ## 13.10.
 
 <e>Debiasing versus bias bias</e>
 
+1. Was sind cognitive biases und wodurch entstehen sie? Erläutere an Beispielen aus Croskerry et al.
+2. Was sind nach Gigerenzer gute Entscheidungen und welche spielt Unsicherheit dabei? Externe Recherche hinsichtlich des Begriffs Unsicherheit erwartet.
+3. Was ist der bias-bias und wodurch ist er entstanden? Erläutere an Beispielen.
+
 ## 20.10.
 
-<e>Debate I: Heuristiken</e>
+<e>Debate I: Heuristiken</e><br>
 
-Affirmative: Gruppe 1
-Negative: Gruppe 2
+Resolution: ÄrztInnen sollten sich mehr auf ihre Intuition (Heuristiken) verlassen dürfen.<br>
+
+Affirmative: Gruppe 1<br>
+Negative: Gruppe 2<br>
 Judges: Gruppe 3
 
 ## 27.10.
