@@ -75,7 +75,7 @@ Judges: Gruppe 3
 
 <e>Debatte II: AI safety</e>
 
-Resolution: <br>
+Resolution: tba<br>
 
 Affirmative: Gruppe 3<br>
 Negative: Gruppe 1<br>
