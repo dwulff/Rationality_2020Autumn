@@ -51,7 +51,7 @@ e {
 
 ## 20.10.
 
-<e>Debatte I: Heuristiken</e><br>
+<e>Debatte I: Heuristiken</e>
 
 Resolution: ÄrztInnen sollten sich mehr auf ihre Intuition (Heuristiken) verlassen dürfen.<br>
 
