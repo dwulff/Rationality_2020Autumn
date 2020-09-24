@@ -63,13 +63,25 @@ Judges: Gruppe 3
 
 <e>Algorithms to live by</e>
 
+1. tba
+2. tba
+3. tba
+
 ## 03.11.
 
 <e>Ziele</e>
 
+1. tba
+2. tba
+3. tba
+
 ## 10.11.
 
 <e>AI safety</e>
+
+1. tba
+2. tba
+3. tba
 
 ## 17.11.
 
@@ -85,13 +97,25 @@ Judges: Gruppe 2
 
 <e>Führung</e>
 
+1. tba
+2. tba
+3. tba
+
 ## 01.12
 
-<e>Chance</e>
+<e>Zufall</e>
+
+1. tba
+2. tba
+3. tba
 
 ## 08.12.
 
-<e>Data</e>
+<e>Daten</e>
+
+1. tba
+2. tba
+3. tba
 
 ## 15.12.
 
