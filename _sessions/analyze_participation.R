@@ -25,9 +25,11 @@ gr_1 = names_code[1:9]
 gr_2 = names_code[10:18]
 gr_3 = names_code[19:27]
 
-names(gr_1)
-names(gr_2)
-names(gr_3)
+rbind(cbind(names(gr_1),1),
+  cbind(names(gr_2),2),
+  cbind(names(gr_3),3)) -> grs 
+last = sapply(str_split(grs[,1],' '),function(x) x[length(x)])
+grs[order(last),]
 
 paste0('"',gr_1,'"')
 

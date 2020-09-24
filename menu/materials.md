@@ -51,7 +51,7 @@ e {
 
 ## 20.10.
 
-<e>Debate I: Heuristiken</e><br>
+<e>Debatte I: Heuristiken</e><br>
 
 Resolution: ÄrztInnen sollten sich mehr auf ihre Intuition (Heuristiken) verlassen dürfen.<br>
 
@@ -61,32 +61,42 @@ Judges: Gruppe 3
 
 ## 27.10.
 
-<e>AI I</e>
+<e>Algorithms to live by</e>
 
 ## 03.11.
 
-<e>AI II</e>
+<e>Ziele</e>
 
 ## 10.11.
 
-<e>AI III</e>
+<e>AI safety</e>
 
 ## 17.11.
 
-<e>Debate AI</e>
+<e>Debatte II: AI safety</e>
+
+Resolution: <br>
+
+Affirmative: Gruppe 3<br>
+Negative: Gruppe 1<br>
+Judges: Gruppe 2
 
 ## 24.11.
 
-<e>Wirtschaft I</e>
+<e>Führung</e>
 
 ## 01.12
 
-<e>Wirtschaft II</e>
+<e>Chance</e>
 
 ## 08.12.
 
-<e>Wirtschaft III</e>
+<e>Data</e>
 
 ## 15.12.
 
-<e>Debate Usefulness</e>
+<e>Debatte III: tba</e>
+
+Affirmative: Gruppe 2<br>
+Negative: Gruppe 3<br>
+Judges: Gruppe 1
