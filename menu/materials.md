@@ -28,9 +28,9 @@ e {
 
 <e>Heuristics & Biases</e>
 
-1. Welches sind die 3 überzeugensten Verletzungen von Rationalität? Trefft eine Auswahl und begründet diese.
-2. Was ist der axiomatische Ansatz den Kahneman und Tversky eingangs erwähnen? Welche Annahmen (Axiome) werden gemacht? Externe Recherche nötig.  
-3. Was sind nach Kahneman und Tversky gute Entscheidungen und wie sehen sie Heuristiken? Belege mit Textstellen.  
+1. Welches sind die 3 überzeugensten Verletzungen von Rationalität? Trefft eine Auswahl und begründet diese. <a href="https://dwulff.github.io/NLP_2020Autumn/assets/pres/kt/Gruppe1.pdf"><i class="fas fa-file"></i></a>
+2. Was ist der axiomatische Ansatz den Kahneman und Tversky eingangs erwähnen? Welche Annahmen (Axiome) werden gemacht? Externe Recherche nötig. <a href="https://dwulff.github.io/NLP_2020Autumn/assets/pres/kt/Gruppe2.pdf"><i class="fas fa-file"></i></a>
+3. Was sind nach Kahneman und Tversky gute Entscheidungen und wie sehen sie Heuristiken? Belege mit Textstellen. <a href="https://dwulff.github.io/NLP_2020Autumn/assets/pres/kt/Gruppe3.pdf"><i class="fas fa-file"></i></a>
 
 ## 06.10.
 
