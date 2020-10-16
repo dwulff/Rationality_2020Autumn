@@ -50,6 +50,11 @@ Weitere Instruktionen hier
   <td>Die Negative stellt ihren vorbereiteten "Case" vor und geht auf Punkte der Affirmative ein.</td>
 </tr>
 <tr>
+  <td>Cross Examination</td>
+  <td>3 min</td>
+  <td>Die Affirmative stellt kritische Fragen an die Negative.</td>
+</tr>
+<tr>
   <td>1. Affirmative rebuttal</td>
   <td>4 min</td>
   <td>Die Affirmative geht auf den "Case" der Negativen ein und bestätigt eigene Positionen. Keine neuen Argumente erlaubt.</td>
