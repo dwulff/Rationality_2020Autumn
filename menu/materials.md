@@ -66,7 +66,7 @@ Judges: Gruppe 3
 <e>Algorithms to live by</e>
 
 1. Was ist das explore-exploit-dilemma (EED) und in welchen Situationen, artifiziell und real, tritt es auf? Bringe Beispiele aus dem Text und darüber hinaus.  
-2. Welche Lösungen/Strategien für das EED existierens?
+2. Welche Lösungen/Strategien für das EED existieren?
 3. Können die Lösungen/Strategien für das EED unsere Entscheidungen im realen Leben verbessern? Unter welchen Bedingungen ja, unter welchen nicht?
 
 ## 03.11.
