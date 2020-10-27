@@ -73,23 +73,23 @@ Judges: Gruppe 3
 
 <e>Ziele</e>
 
-1. tba
-2. tba
-3. tba
+1. Was sind Ziele?
+2. Was sind gute Ziele? Wie können wir gute Ziele identifizieren?
+3. Was ist das "goal-alignment-problem" und wie kann es schief gehen?
 
 ## 10.11.
 
 <e>AI safety</e>
 
-1. tba
-2. tba
-3. tba
+1. Was ist Reward Hacking und wie kann es vermeiden werden?
+2. Was ist Safe Exploration und wie kann es ermöglicht werden?
+3. Was ist Robustness to Distributional Change und wie kann es ermöglicht werden?
 
 ## 17.11.
 
 <e>Debatte II: AI safety</e>
 
-Resolution: tba<br>
+Resolution: AGI (artificial general intelligence) wird unser leben verbessern<br>
 
 Affirmative: Gruppe 3<br>
 Negative: Gruppe 1<br>
