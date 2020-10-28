@@ -89,7 +89,7 @@ Judges: Gruppe 3
 
 <e>Debatte II: AI safety</e>
 
-Resolution: AGI (artificial general intelligence) wird unser leben verbessern<br>
+Resolution: <a href="https://content.sciendo.com/configurable/contentpage/journals$002fjagi$002f5$002f1$002farticle-p1.xml"><b>AGI (artificial general intelligence)</b></a> wird unser Leben verbessern.<br>
 
 Affirmative: Gruppe 3<br>
 Negative: Gruppe 1<br>
