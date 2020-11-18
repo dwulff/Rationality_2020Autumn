@@ -97,11 +97,11 @@ Judges: Gruppe 2
 
 ## 24.11.
 
-<e>Führung</e>
+<e>Business</e>
 
-1. tba
-2. tba
-3. tba
+1. Was ist System 1, was ist System 2, was ist Nudging und was der Zusammenhang? Externe Recherche nötig.
+2. Beschreibe und evaluiere die Vorschläge von Beshears und Gino. Führen Sie Eurer Meinung nach zu besseren Entscheidungen, warum ja, warum nein?
+3. Beschreibe und evaluiere die Vorschläge von Snoweden und Boon. Führen Sie Eurer Meinung nach zu besseren Entscheidungen, warum ja, warum nein? 
 
 ## 01.12
 
