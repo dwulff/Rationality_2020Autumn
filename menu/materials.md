@@ -101,7 +101,7 @@ Judges: Gruppe 2
 
 1. Was ist System 1, was ist System 2, was ist Nudging und was der Zusammenhang? Externe Recherche nötig.
 2. Beschreibe und evaluiere die Vorschläge von Beshears und Gino. Führen Sie Eurer Meinung nach zu besseren Entscheidungen, warum ja, warum nein?
-3. Beschreibe und evaluiere die Vorschläge von Snoweden und Boon. Führen Sie Eurer Meinung nach zu besseren Entscheidungen, warum ja, warum nein? 
+3. Beschreibe und evaluiere die Vorschläge von Snoweden und Boon. Führen Sie Eurer Meinung nach zu besseren Entscheidungen, warum ja, warum nein?
 
 ## 01.12
 
@@ -121,7 +121,7 @@ Judges: Gruppe 2
 
 ## 15.12.
 
-<e>Debatte III: tba</e>
+<e>Debatte III: Es gibt gute Entscheidungen.</e>
 
 Affirmative: Gruppe 2<br>
 Negative: Gruppe 3<br>
