@@ -107,9 +107,9 @@ Judges: Gruppe 2
 
 <e>Zufall</e>
 
-1. tba
-2. tba
-3. tba
+1. Welche Implikationen haben Zufallserklärungen für Wirtschaft und Forschung?
+2. Welche drei Zufalls-Mechanismen sind am interessantesten? Erläutere. 
+3. Welche drei empirischen Befunde werden am überzeugendsten durch Zufall erklärt? Erläutere.
 
 ## 08.12.
 
